@@ -286,6 +286,7 @@ nav[aria-label]>div>header {
 
 body {
 	background: var(--background-image) center/cover no-repeat;
+	filter: blur(4px);
 }
 
 #app-mount {
